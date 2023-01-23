@@ -72,7 +72,7 @@
 3.Preencha as informações:
 <dl>
   <dt>Nomes e Tags</dt>
-  <dd><code>Name:Seunome Project:PB CosCenter:PB</code></dd>
+  <dd><code>Name:Seunome Project:PB CosCenter:PBCompass</code></dd>
   
   <dt>Imagem da máquina da Amazon</dt>
   <dd><code>AMazon Linux</code></dd>
