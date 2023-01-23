@@ -12,4 +12,5 @@ MAILTO=root
 # |  |  |  |  .---- day of week (0 - 6) (Sunday=0 or 7) OR sun,mon,tue,wed,thu,fri,sat
 # |  |  |  |  |
 # *  *  *  *  * user-name  command to be executed
-
+#checando de 5 em 5 minutos se o serviço do apache está funcionado com o script criado
+*/5 * * * * root bash /scripts/scriptCheckApache.sh
