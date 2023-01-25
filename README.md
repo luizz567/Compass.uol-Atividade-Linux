@@ -16,7 +16,7 @@
   <dd><code>VPC-AtividadePratica-01</code></dd>
   
   <dt>Bloco CIDR IPv4</dt>
-  <dd><code>172.29.0.0/16</code></dd>
+  <dd><code>172.31.0.0/16</code></dd>
 
   <dt>Bloco CIDR IPv6</dt>
   <dd><code>Nenhum bloco CIDR IPv6</code></dd>
@@ -75,7 +75,7 @@
   <dd><code>Name:Seunome Project:PB CosCenter:PBCompass</code></dd>
   
   <dt>Imagem da máquina da Amazon</dt>
-  <dd><code>AMazon Linux</code></dd>
+  <dd><code>Amazon Linux</code></dd>
 
   
   <dt>Tipo de Instância</dt>
