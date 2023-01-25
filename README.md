@@ -1,6 +1,6 @@
 # Índice
 - [Criando sua VPC](#criando-sua-vpc)
-- [Criando seu grupo de segurança](#criando-seu-grupo-de-segurança)
+- [Criando seu grupo de segurança](#configurando-seu-grupo-de-segurança)
 - [Criando seu par de chaves pública e privada](#criando-seu-par-de-chaves-pública-e-privada)
 - [Criando sua primeira instância](#criando-sua-primeira-instância)
 - [Criando seu Ip elástico](#criando-seu-ip-elástico)
@@ -26,7 +26,7 @@
 </dl>
 6.Clique em criar VPC
 
-# Criando seu grupo de segurança
+# Configurando seu grupo de segurança
 ------------
 1.Acesse a opção EC2 no [console da AWS](https://console.aws.amazon.com/ec2/).</br>
 2.Clique em Security Group.</br>
