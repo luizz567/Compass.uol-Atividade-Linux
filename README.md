@@ -30,22 +30,16 @@
 ------------
 1.Acesse a opção EC2 no [console da AWS](https://console.aws.amazon.com/ec2/).</br>
 2.Clique em Security Group.</br>
-4.Clique em criar grupo de segurança</br>
-5.Prencha as seguintes informações:
+4.Clique no  grupo de segurança desejado</br>
+5.Adicione uma tag de nome ao grupo default :
 <dl>
   <dt>Nome do grupo de segurança</dt>
   <dd><code>SG-AtividadePratica-01</code></dd>
-  
-  <dt>Descrição</dt>
-  <dd><code>Libera as portas de comunicacao para acesso publico: TCP, UDP, HTTP,HTTPS,NFS e SSH privado.</code></dd>
-
-  <dt>VPC</dt>
-  <dd><code>VPC-AtividadePratica-01</code></dd>
-  
-  <dt>Regras de Entrada</dt>
-  <img src="https://user-images.githubusercontent.com/54165905/213941124-ef885b08-86ec-48bc-a358-df026523afd1.png">
 </dl>
-
+6.Clique em Editar regras de entrada</br>
+7.Adicione as seguintes informações:
+<img src="https://user-images.githubusercontent.com/54165905/214590529-5a23468e-be0d-4da3-a4c1-370e34afda41.png">
+8.Clique em salvar regras
 
 # Criando seu par de chaves pública e privada
 ------------
